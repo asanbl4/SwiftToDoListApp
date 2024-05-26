@@ -30,6 +30,7 @@
 		D0FD78EE2C038969004433B5 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FD78ED2C038969004433B5 /* LoginViewViewModel.swift */; };
 		D0FD78F02C038970004433B5 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FD78EF2C038970004433B5 /* RegisterViewViewModel.swift */; };
 		D0FD78F22C038985004433B5 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FD78F12C038985004433B5 /* ToDoListItemViewViewModel.swift */; };
+		D0FD78F42C0391DA004433B5 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FD78F32C0391DA004433B5 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		D0FD78ED2C038969004433B5 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		D0FD78EF2C038970004433B5 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		D0FD78F12C038985004433B5 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
+		D0FD78F32C0391DA004433B5 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				D0FD78DB2C038838004433B5 /* LoginView.swift */,
 				D0FD78DD2C038843004433B5 /* RegisterView.swift */,
 				D0FD78DF2C0388B6004433B5 /* ToDoListItemView.swift */,
+				D0FD78F32C0391DA004433B5 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				D0FD78D62C038805004433B5 /* ProfileView.swift in Sources */,
 				D0FD78E22C0388F1004433B5 /* User.swift in Sources */,
 				D0FD78E02C0388B6004433B5 /* ToDoListItemView.swift in Sources */,
+				D0FD78F42C0391DA004433B5 /* HeaderView.swift in Sources */,
 				D0FD78EA2C03893F004433B5 /* ToDoListViewViewModel.swift in Sources */,
 				D0FD78EE2C038969004433B5 /* LoginViewViewModel.swift in Sources */,
 				D05E8F4C2C03731400D101F9 /* ToDoListApp.swift in Sources */,
