@@ -6,3 +6,13 @@
 //
 
 import Foundation
+
+/// View model for list items view
+/// Primary tab
+class ToDoListViewViewModel: ObservableObject {
+    
+    @Published var userId: String = ""
+    
+    init() {}
+    
+}
