@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D01CD5B32C047286008D97DA /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CD5B22C047286008D97DA /* TLButton.swift */; };
 		D05E8F4C2C03731400D101F9 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05E8F4B2C03731400D101F9 /* ToDoListApp.swift */; };
 		D05E8F4E2C03731400D101F9 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05E8F4D2C03731400D101F9 /* MainView.swift */; };
 		D05E8F502C03731600D101F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D05E8F4F2C03731600D101F9 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D01CD5B22C047286008D97DA /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		D05E8F482C03731400D101F9 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D05E8F4B2C03731400D101F9 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		D05E8F4D2C03731400D101F9 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				D05E8F4D2C03731400D101F9 /* MainView.swift */,
+				D01CD5B22C047286008D97DA /* TLButton.swift */,
 				D0FD78D52C038805004433B5 /* ProfileView.swift */,
 				D0FD78D72C03881D004433B5 /* ToDoListView.swift */,
 				D0FD78D92C038830004433B5 /* NewItemView.swift */,
@@ -242,6 +245,7 @@
 				D0FD78D82C03881D004433B5 /* ToDoListView.swift in Sources */,
 				D0FD78DE2C038843004433B5 /* RegisterView.swift in Sources */,
 				D0FD78E82C03892B004433B5 /* ProfileViewViewModel.swift in Sources */,
+				D01CD5B32C047286008D97DA /* TLButton.swift in Sources */,
 				D0FD78D62C038805004433B5 /* ProfileView.swift in Sources */,
 				D0FD78E22C0388F1004433B5 /* User.swift in Sources */,
 				D0FD78E02C0388B6004433B5 /* ToDoListItemView.swift in Sources */,
