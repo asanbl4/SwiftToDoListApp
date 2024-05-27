@@ -12,6 +12,7 @@ import Foundation
 class ToDoListViewViewModel: ObservableObject {
     
     @Published var userId: String = ""
+    @Published var showingNewItemView = false
     
     init() {}
     
